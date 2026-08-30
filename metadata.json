@@ -1,0 +1,6 @@
+{
+  "name": "CONSTRUCTION INTELLIGENCE",
+  "description": "Enterprise Construction Analytics & Project Command Center by Rohit Shinde",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
